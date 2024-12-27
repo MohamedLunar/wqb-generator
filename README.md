@@ -1,5 +1,7 @@
 # WQB Generator
 - **WQB Generator** is a simple basic generator to generate a usernames and passwords
+# Important Note
+- On the code remember to modify ```os.system("cd /sdcard")``` to ```os.system("cd desktop")``` if you're using other operating system (Windows, Linux, MacOS)
 # Generator Guide
 - You must install `PyANSI3` and `PyFiglet` Libraries by running the following command:
 ```bash
